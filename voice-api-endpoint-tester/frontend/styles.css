@@ -1,0 +1,18 @@
+body {
+  font-family: Arial;
+  background: #f5f5f5;
+  padding: 30px;
+}
+
+input, button {
+  display: block;
+  margin: 10px 0;
+  width: 400px;
+  padding: 8px;
+}
+
+pre {
+  background: black;
+  color: lime;
+  padding: 15px;
+}
